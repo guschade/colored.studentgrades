@@ -1,2 +1,2 @@
 # Tabela de Notas (Colorida)
-> Tabela de Notas colorida.
+> Acréscimo de cores na atividade de Tabela de Notas, realizada na aula do dia 27/03/2023.
